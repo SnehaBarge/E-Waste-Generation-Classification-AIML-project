@@ -18,7 +18,7 @@ This project uses **EfficientNetV2B0** with data augmentation to classify e-wast
 ## 🧪 Output Samples
 
 ### 📊 Training Accuracy & Loss
-![Accuracy Graph](Media/training_graphs.png)
+![Accuracy Graph][(Media/training_graphs.png)](https://github.com/SnehaBarge/E-Waste-Generation-Classification-AIML-project/blob/main/Media/training%20graphs.png?raw=true)
 
 ### 📉 Confusion Matrix
 ![Confusion Matrix][(Media/Confusion_matrix_graphic.png)](https://github.com/SnehaBarge/E-Waste-Generation-Classification-AIML-project/blob/main/Media/Confusion%20matrix%20graphic.png?raw=true)
