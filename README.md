@@ -27,7 +27,7 @@ This project uses **EfficientNetV2B0** with data augmentation to classify e-wast
 ![Sample Predictions][(Media/Sample_predictions_immagespng.png)](https://github.com/SnehaBarge/E-Waste-Generation-Classification-AIML-project/blob/main/Media/Sample%20prediction%20imagespng.png?raw=true)
 
 ### 🌐 Gradio Interface
-![Interface Screenshot](Media/E Waste Image Classifier Interface with Audio Player Image.png)
+![Interface Screenshot][(Media/E Waste Image Classifier Interface with Audio Player Image.png)](https://github.com/SnehaBarge/E-Waste-Generation-Classification-AIML-project/blob/main/Media/E%20Waste%20Image%20Classifier%20Interface%20with%20Audio%20Player%20Image.png?raw=true)
 
 
 ## 🔮 Future Scope
