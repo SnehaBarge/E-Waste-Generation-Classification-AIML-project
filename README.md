@@ -42,3 +42,8 @@ This project uses **EfficientNetV2B0** with data augmentation to classify e-wast
 from tensorflow.keras.models import load_model
 model = load_model('Efficient_classify_final.keras')
 ```
+## 📥 Download Trained Model
+
+You can download the trained model (`Efficient_classify_final.keras`) from the link below:
+
+🔗 [Download Efficient_classify_final.keras](https://drive.google.com/file/d/11zkL0o4DJOjId1F_AXMhernYFJMcX4Fr/view?usp=drive_link)
